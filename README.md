@@ -9,7 +9,7 @@
 5)	Code has good test coverage. Used XUnit unit testing framework and covered key functionalities and business rules.
 6)	Implemented functional programming. Leveraged several reusable functions for applying the rules.
 7)	Passed all the test cases provided in the requirement document and added few based on some custom conditions. Like the dynamic holiday falls on a Sunday and gets moved to Monday and that day is again a holiday.
-8)	
+	
 **Design:**
 Interfaces and classes used:
 IHoliday – properties for date and description, method to set date.
