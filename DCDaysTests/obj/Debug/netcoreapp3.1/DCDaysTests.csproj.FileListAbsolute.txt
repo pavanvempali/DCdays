@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\DCDays\DCDaysTests\obj\Debug\netcoreapp3.1\DCDaysTests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DCDays\DCDaysTests\obj\Debug\netcoreapp3.1\DCDaysTests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DCDays\DCDaysTests\obj\Debug\netcoreapp3.1\DCDaysTests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DCDays\DCDaysTests\obj\Debug\netcoreapp3.1\DCDaysTests.AssemblyInfo.cs
